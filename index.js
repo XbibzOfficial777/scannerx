@@ -42,7 +42,7 @@ await checkDependencies();
     const { choice } = await mainMenu();
     
     switch (choice) {
-      case 'Scan Target':
+      case 'Scan Targetnya':
         await runScanner();
         break;
       case 'Update Tool':
