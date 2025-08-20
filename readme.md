@@ -1,6 +1,6 @@
 
 
-# 🚀 Termux Vulnerability Scanner Pro Max 2024
+# 🚀 Termux Vulnerability Scanner Pro Max 
 
 ![GitHub issues](https://img.shields.io/github/issues/XbibzOfficial777/scannerx) ![GitHub forks](https://img.shields.io/github/forks/XbibzOfficial777/scannerx) ![GitHub stars](https://img.shields.io/github/stars/XbibzOfficial777/scannerx) ![GitHub license](https://img.shields.io/github/license/XbibzOfficial777/scannerx)
 
@@ -56,7 +56,7 @@ node index.js
 ║  █▀  █▀  ▀▀█ █▀▄ █▀  █▀▄   █▀  █▀▀ █▀▄ █▀  █▀  █▀▀ ▀▀█     ║
 ║  ▀   ▀▀▀ ▀▀▀ ▀ ▀ ▀▀▀ ▀▀   ▀▀▀ ▀   ▀▀ ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀▀▀     ║
 ║                                                              ║
-║   [🔥] VULNERABILITY SCANNER PRO MAX 2024                    ║
+║   [🔥] VULNERABILITY SCANNER PRO MAX                     ║
 ║   [🚀] POWERED BY XBIBZ OFFICIAL - MR. NEXO444               ║
 ║   [💀] ALL ANDROID VERSIONS | NO ROOT | ALL TERMINALS        ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -192,6 +192,7 @@ Proyek ini dilisensikan under MIT License - lihat file [LICENSE](LICENSE) untuk 
 <div align="center">
 
 ### **Jangan lupa kasih ⭐️ jika proyek ini bermanfaat!**
+
 
 
 </div>
